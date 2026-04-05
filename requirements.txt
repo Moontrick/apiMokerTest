@@ -1,0 +1,10 @@
+requests==2.31.0
+pytest==7.4.3
+pytest-xdist==3.5.0
+pytest-asyncio==0.23.2
+allure-pytest==2.13.2
+python-dotenv==1.0.0
+pydantic==2.5.0
+email-validator==2.1.0
+loguru==0.7.2
+colorama==0.4.6
